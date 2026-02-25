@@ -1,0 +1,37 @@
+{
+    "cvDownloadUrl": "/cv.pdf",
+    "experience": [
+        {
+            "id": 1,
+            "role": "Magang (Intern)",
+            "company": "UPATIK Universitas Jambi",
+            "period": "Selama 4 Bulan",
+            "description": "Menjalani masa magang dan terlibat langsung dalam proses operasional teknologi serta pengembangan sistem informasi di lingkungan Universitas Jambi."
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "institution": "Universitas Jambi",
+            "degree": "S1 Sistem Informasi",
+            "period": "2022 - Sekarang",
+            "description": "Fokus pada pengembangan sistem informasi, rekayasa perangkat lunak, dan manajemen basis data."
+        }
+    ],
+    "skills": [
+        "HTML & CSS",
+        "JavaScript / TypeScript",
+        "PHP",
+        "Laravel",
+        "React.js & Next.js",
+        "Tailwind CSS",
+        "MySQL / PostgreSQL",
+        "Git / GitHub",
+        "Wordpress",
+        "Node.js",
+        "Figma",
+        "Canva",
+        "Firebase",
+        "Supabase"
+    ]
+}

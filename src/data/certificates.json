@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "title": "AWS Certified Solutions Architect",
+        "issuer": "Amazon Web Services",
+        "year": "2025",
+        "imageUrl": ""
+    },
+    {
+        "id": "2",
+        "title": "Full-Stack Web Development Bootcamp",
+        "issuer": "Udemy",
+        "year": "2024",
+        "imageUrl": ""
+    },
+    {
+        "id": "3",
+        "title": "React Professional Certification",
+        "issuer": "Meta",
+        "year": "2024",
+        "imageUrl": ""
+    }
+]

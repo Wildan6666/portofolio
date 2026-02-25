@@ -1,0 +1,14 @@
+{
+    "profileName": "Wildan",
+    "role": "Software Engineer",
+    "headline": "Halo, Saya Wildan",
+    "subHeadline": "Saya merancang dan membangun aplikasi web yang bersih, cepat, dan berfokus pada pengalaman pengguna yang baik.",
+    "profileImageUrl": "/images/profile.jpg",
+    "availabilityStatus": "Tersedia untuk proyek baru",
+    "socialLinks": {
+        "instagram": "https://instagram.com/wildanhakimiazizi",
+        "linkedin": "https://id.linkedin.com/in/m-wildan-hakimi-al-azizi-ab59522b9",
+        "github": "https://github.com/Wildan6666",
+        "email": "mailto:wildancuy26@gmail.com"
+    }
+}

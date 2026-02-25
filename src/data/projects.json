@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Aplikasi JDIH Spatietes",
+    "description": "Sistem Informasi Jaringan Dokumentasi dan Informasi Hukum yang dibangun menggunakan Laravel dan Spatie Permission. Mendukung aktivitas pencatatan log (Activitylog) dan pengamanan ID (Hashids).",
+    "imageUrl": "/images/projects/project1.jpg",
+    "demoUrl": "",
+    "repoUrl": "",
+    "tags": [
+      "Laravel",
+      "PHP",
+      "Inertia.js",
+      "React.js"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Seserahan Mahar Jambi",
+    "description": "Platform pemesanan dan manajemen layanan Seserahan & Mahar pernikahan. Terintegrasi dengan payment gateway Midtrans untuk transaksi yang lebih mudah.",
+    "imageUrl": "/images/projects/project2.jpg",
+    "demoUrl": "",
+    "repoUrl": "",
+    "tags": [
+      "Laravel",
+      "PHP",
+      "Midtrans",
+      "Tailwind CSS"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Aplikasi Photobooth",
+    "description": "Aplikasi web interaktif untuk Photobooth yang memungkinkan pengguna menambahkan stiker, mengatur posisi gambar (Konva), dan menyimpan langsung ke Google Drive.",
+    "imageUrl": "/images/projects/project3.jpg",
+    "demoUrl": "",
+    "repoUrl": "",
+    "tags": [
+      "Next.js",
+      "React Konva",
+      "Zustand",
+      "Google API"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Website Perkenalan Desa Wisata",
+    "description": "Website perkenalan desa wisata yang dibangun menggunakan WordPress.",
+    "imageUrl": "/images/projects/project4.jpg",
+    "demoUrl": "",
+    "repoUrl": "",
+    "tags": [
+      "WordPress",
+      "PHP"
+    ]
+  }
+]
