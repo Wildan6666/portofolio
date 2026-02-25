@@ -1,26 +1,38 @@
 [
     {
         "id": "1",
-        "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80",
-        "caption": "Coding session at the local cafe",
-        "category": "Workspace"
+        "imageUrl": "/images/galeri/IMG_0074.JPG",
+        "caption": "Momen berkesan di kampus",
+        "category": "Kuliah"
     },
     {
         "id": "2",
-        "imageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&q=80",
-        "caption": "Team hackathon winners 2024",
-        "category": "Event"
+        "imageUrl": "/images/galeri/IMG_0090.JPG",
+        "caption": "Belajar dan diskusi bersama",
+        "category": "Aktivitas"
     },
     {
         "id": "3",
-        "imageUrl": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=800&q=80",
-        "caption": "New mechanical keyboard setup",
-        "category": "Setup"
+        "imageUrl": "/images/galeri/IMG_0281.JPG",
+        "caption": "Foto bersama teman-teman",
+        "category": "Momen"
     },
     {
         "id": "4",
-        "imageUrl": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&q=80",
-        "caption": "Late night debugging",
-        "category": "Behind the Scenes"
+        "imageUrl": "/images/galeri/IMG_0282.JPG",
+        "caption": "Acara dan kegiatan",
+        "category": "Kampus"
+    },
+    {
+        "id": "5",
+        "imageUrl": "/images/galeri/IMG_0359 (1).JPG",
+        "caption": "Keseruan di kelas",
+        "category": "Kuliah"
+    },
+    {
+        "id": "6",
+        "imageUrl": "/images/galeri/IMG_0400.JPG",
+        "caption": "Kenangan masa perkuliahan",
+        "category": "Momen"
     }
 ]
